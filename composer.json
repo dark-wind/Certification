@@ -1,0 +1,17 @@
+{
+  "name": "darkwindcc/certification",
+  "description": " user 4 element certification api",
+  "type": "laravel",
+  "authors": [
+    {
+      "name": "longxia123",
+      "email": "326956600@163.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Darkwind\\Certification\\": "src/"
+    }
+  }
+}
