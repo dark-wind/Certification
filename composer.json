@@ -2,10 +2,17 @@
   "name": "darkwindcc/certification",
   "description": " user 4 element certification api",
   "type": "laravel",
+  "license": "MIT",
   "authors": [
     {
       "name": "longxia123",
       "email": "326956600@163.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/326956600/Certification.git"
     }
   ],
   "require": {},
